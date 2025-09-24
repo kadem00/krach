@@ -1,0 +1,10 @@
+global.prefa = ['','!','.',',','🐤','🗿']
+global.owner = ['201154553480']
+global.thumb = "http://tmpfiles.org/dl/8710979/1754125603789.jpg"
+global.urlfoto = "https://ibb.co.com/bpT1ZWB"
+global.url = "-"
+global.namabot = "𝐇𝐢𝐤𝐚𝐦 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐕𝟏"
+global.packname = "By Hikam Official"
+global.namaCreator = "Hikam Official"
+global.isLink = 'https://whatsapp.com/channel/0029VamIoyX0LKZBMwzzcb3u'
+global.idSaluran = "120363403533044969@newsletter"
